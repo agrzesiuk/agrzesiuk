@@ -14,7 +14,7 @@ Stawiam swoje pierwsze kroki w świecie **Cybersecurity** oraz **Administracji S
 *Automatyzacja zbierania newsów ze świata cyberbezpieczeństwa.*
 - **Co zrobiłam:** Skrypt pobiera i przetwarza dane z portalu, tworzy wizualizacje (wykresy) trendów oraz generuje raporty w formacie HTML.
 - **Technologie:** Python, Web Scraping (Selenium), Matplotlib.
-- [👉 Zobacz repozytorium](TUTAJ_WKLEJ_LINK)
+- [👉 Zobacz repozytorium](https://github.com/agrzesiuk/thn-scraper.git)
 
 #### 🖥️ Homelab - Budowa i administracja środowiskiem testowym
 *Moje własne laboratorium do testów bezpieczeństwa.*
@@ -26,7 +26,6 @@ Stawiam swoje pierwsze kroki w świecie **Cybersecurity** oraz **Administracji S
 ### 🛠️ Technologie i Narzędzia
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.style=for-the-badge&logo=cisco&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2143a5?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 ---
